@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.navbar{
+  background-color: aqua ;
+  color: black !important;
+  font-weight: bolder !important;
+  border: 2px solid blueviolet !important;
+}
+.form-control{
+  border: 2px solid blueviolet !important;
+  color: blue !important;
+}
+.btnfirst{
+  background-color: aqua !important;
+}
+.blk{
+  font-weight: bolder !important;
+}
